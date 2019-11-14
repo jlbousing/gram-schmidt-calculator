@@ -1,0 +1,17 @@
+{
+  "name": "gram-schmidt",
+  "version": "1.0.0",
+  "description": "Gram-schmidt calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "linear",
+    "algebra",
+    "math",
+    "javascript"
+  ],
+  "author": "Jorge Luis Bou-saad",
+  "license": "ISC"
+}
